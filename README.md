@@ -1,4 +1,4 @@
-# LSE-MA421-2019-LT
+# LSE-MA421-Lent-2019
 LSE MA421 Advanced Algorithms
 
 Lent Term 2019
